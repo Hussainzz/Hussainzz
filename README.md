@@ -1,5 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/9o59Pga7BWlDrzWhhh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-9o59Pga7BWlDrzWhhh">via GIPHY</a></p>
 
-### Hi there 👋
+## Hi There! I'm Hussain Shaikh 👋 
+I am a Software Developer, Passionate learner who's always willing to lear and work accross any technologies and domain 🔮. I Love 🖤 to explore new technologies and solve problems💡.I am currently working as a Software Developer at <a href="https://www.intuio.io">Intuio 👨‍💻</a>
 
+### Tech Stack I am in love with 💻
+<img src="/git.gif" style="width: 250px;height: 200px;justify-content:center" align="right" />
 
