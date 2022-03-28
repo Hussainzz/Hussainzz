@@ -8,6 +8,8 @@ I am a Software Developer, Passionate learner who's always willing to learn and 
 
 ⚡ https://gogo-appz.herokuapp.com/
 
+⚡ https://dev.to/hussainzz/eth-lottery-solidity-hardhat-3ebg
+
 <a href="https://www.linkedin.com/in/hussain-shaikh-12106b103/">
   <img align="left" alt="Hussain's LinkedIN" width="22px" src="/linkedin.svg" />
 </a>
