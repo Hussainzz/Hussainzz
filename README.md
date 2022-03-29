@@ -1,5 +1,5 @@
 ## Hi There! I'm Hussain Shaikh <img src="/wave.gif" width="30px">
-I am a Software Developer, Passionate learner who's always willing to learn and work accross any technologies and domain 🔮. I Love 🖤 to explore new technologies and solve problems💡.I am currently working as a Software Developer at <a href="https://www.intuio.io">Intuio Software Labs👨‍💻</a>
+I am a Software Developer, Passionate learner who's always willing to learn and work accross any technologies and domain 🔮. I Love 🖤 to explore new technologies and solve problems💡.
 
 <img src="/git.gif" style="width: 250px;height: 200px;justify-content:center" align="right" />
 
