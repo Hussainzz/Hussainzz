@@ -1,7 +1,7 @@
-## Hi There! I'm Hussain Shaikh <img src="/wave.gif" width="30px">
+## Hi There! I'm Hussain Shaikh <img src="/wave.gif" width="30">
 I am a Software Developer, Passionate learner who's always willing to learn and work accross any technologies and domain 🔮. I Love 🖤 to explore new technologies and solve problems💡.
 
-<img src="/git.gif" style="width: 250px;height: 200px;justify-content:center" align="right" />
+<img src="/git.gif" width="250" height="200" style="width: 250px;height: 200px;justify-content:center" align="right" />
 
 ### Tech Stack I am in love with 💻
 <img src="/nodejs.gif" width="70"><img src="/react.gif" width="70"><img src="/php.gif" width="70"><img src="/py.gif" width="70">
