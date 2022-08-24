@@ -4,7 +4,7 @@ I am a Software Developer, Passionate learner who's always willing to learn and 
 <img src="/git.gif" width="250" height="200" style="width: 250px;height: 200px;justify-content:center" align="right" />
 
 ### Tech Stack I am in love with 💻
-<img src="/nodejs.gif" width="70"><img src="/react.gif" width="70"><img src="/php.gif" width="70"><img src="/py.gif" width="70">
+<img src="/nodejs.gif" width="70"><img src="/react.gif" width="70"><img src="/php.gif" width="70"><img src="/hardhat.png" width="90">
 
 ⚡ https://gogo-appz.herokuapp.com/
 
