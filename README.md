@@ -10,6 +10,8 @@ I am a Software Developer, Passionate learner who's always willing to learn and 
 
 ⚡ https://dev.to/hussainzz/eth-lottery-solidity-hardhat-3ebg
 
+⚡ https://dev.to/hussainzz/lazy-minting-nft-solidity-hardhat-30l1
+
 <a href="https://www.linkedin.com/in/hussain-shaikh-12106b103/">
   <img align="left" alt="Hussain's LinkedIN" width="22px" src="/linkedin.svg" />
 </a>
