@@ -6,6 +6,8 @@ I am a Software Developer, Passionate learner who's always willing to learn and 
 ### Tech Stack I am in love with 💻
 <img src="/nodejs.gif" width="70"><img src="/react.gif" width="70"><img src="/php.gif" width="70"><img src="/hardhat.png" width="80"><img src="/sol2.jpeg" width="60">
 
+❤️  https://www.everydayavatar.com/
+
 ⚡ https://gogo-appz.herokuapp.com/
 
 ⚡ https://dev.to/hussainzz/eth-lottery-solidity-hardhat-3ebg
